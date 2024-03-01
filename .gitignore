@@ -2,6 +2,6 @@
 node_modules/
 
 # log files
-./config.json
+config.json
 .log
 .env
